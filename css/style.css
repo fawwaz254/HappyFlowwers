@@ -43,18 +43,6 @@ body {
 .greetings > span:nth-child(5) {
   animation-delay: 0.8s;
 }
-.greetings > span:nth-child(6){
-    animation-delay: 0.10s ;
-}
-.greetings > span:nth-child(7){
-    animation-delay: 0.12s ;
-}
-.greetings > span:nth-child(8){
-    animation-delay: 0.14s;
-}
-.greetings > span:nth-child(9){
-    animation-delay: 0.16s;
-}
 
 .description {
   font-size: 1.5rem;
